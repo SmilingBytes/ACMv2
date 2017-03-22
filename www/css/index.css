@@ -1,0 +1,98 @@
+#admin-access{
+  display: none;
+}
+#sign-up{
+  display: none;
+}
+.pro-pic{
+  width: 150px;
+  height: 150px;
+  margin-top: 20px !important;
+}
+.pr-25{
+  padding-right: 25px;
+}
+.avatar{
+  width: 42px;
+  height: 42px;
+  margin-top: 6px;
+}
+.sign-in-form{
+  width: 80%;
+  margin-left: 10% !important;
+  padding-bottom: 20px;
+}
+#mySidenav a span{
+  padding-right: 10px;
+}
+.t-container{
+  background: rgba(238, 238, 238, 0.61);
+  padding-top: 10px;
+}
+.mb-25{
+  margin-bottom: 25px !important;
+}
+.t_note{
+  overflow-y: auto;
+  max-height: 25px;
+  margin-top: 0px;
+  color: #666;
+}
+.t-right{
+  text-align: right;
+  color: #666;
+}
+.t-right span.w3-tag{
+  margin-top: 7px;
+}
+.modal-cancel{
+  width: 45%;
+}
+.bottom-tab .w3-bar-item{
+  width: 33%;
+}
+.tablink{
+  background: #9E9E9E;
+  color: white;
+}
+.tabContainer {
+    padding-top: 60px;
+}
+.header-over{
+  padding-top: 60px;
+}
+.top-status {
+  text-align: center;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.cursor{
+  cursor: pointer;
+}
+#otherPages{
+  display: none;
+}
+#listit{
+  display: block;
+}
+
+.footer-over {
+  min-height: 80px;
+}
+/*=====================================================
+    CUSTOM SCROLLBAR
+  =====================================================*/
+::-webkit-scrollbar {
+  width: 0px;
+  color:#f00;
+}
+
+/*::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}*/
