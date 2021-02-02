@@ -3,11 +3,11 @@ Account Management System Android and iOS apps using PhoneGap
 
 ## Screenshot
 <center><img src="https://github.com/beyMax/ACMv2/blob/master/front.jpg"/></center>
-## Login page
+<h2>Login page: </h2>
 <center><img src="https://github.com/beyMax/ACMv2/blob/master/login.jpg"/></center>
-## User Profile:
+<h2>User Profile:</h2>
 <center><img src="https://github.com/beyMax/ACMv2/blob/master/sagor-vai.jpg"/></center>
-## Add transaction:
+<h2>Add transaction:</h2>
 <center><img src="https://github.com/beyMax/ACMv2/blob/master/add-ammount.jpg"/></center>
-## Transaction History:
+<h2>Transaction History:</h2>
 <center><img src="https://github.com/beyMax/ACMv2/blob/master/all-transactions.jpg"/></center>
