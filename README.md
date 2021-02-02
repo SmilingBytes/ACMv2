@@ -2,7 +2,7 @@
 Account Management System Android and iOS apps using PhoneGap
 
 ## Screenshot
-<center><img src="https://github.com/beyMax/ACMv2/blob/master/front.jpg"/></center>
+<center><img src="https://github.com/beyMax/ACMv2/blob/master/front.jpg"/ sidth="400px"></center>
 <h2>Login page: </h2>
 <center><img src="https://github.com/beyMax/ACMv2/blob/master/login.jpg"/></center>
 <h2>User Profile:</h2>
